@@ -1,7 +1,4 @@
 // Practica 2 - Seccion 3.2: Analisis de memoria
-// NOTA: la clase aqui es una version minima con SOLO los atributos pedidos
-// (weights y bias). Si la clase final agrega mas atributos (ej. medias/desv.
-// para el escalado), sizeof(LinearRegression) cambia: volver a ejecutar.
 #include <iostream>
 #include <vector>
 using namespace std;
